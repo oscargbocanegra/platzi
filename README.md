@@ -242,6 +242,5 @@ ___
   - Oscar G Bocanegra.<br>
     - https://www.linkedin.com/in/oscarbocanegra/
   - Fuentes de información.
-    - Cursos de [OpenWebinars](https://openwebinars.net/).
     - Cursos de Platzi [Platzi](http://platzi.com/)
 ___

@@ -34,8 +34,8 @@ Temas
 - Reto final: Juego del Ahorcado o Hangman Game
 ____
 ### [Material del curso aqui en este enlace (Notion) ](https://oscargbocanegra.notion.site/Python-Intermedio-Comprehensions-Lambdas-y-Manejo-de-Errores-74daecbe0cf44468a86a9722adcd76b6)
-### [Material del curso Ejemplos con Python](../platzi/python/curso_intermedio_python)
-## [Challenges con Python](../platzi/python/challenges)
+### [Material del curso Ejemplos con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/curso_intermedio_python)
+## [Challenges con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/challenges)
 
 _____
  # Creditos.

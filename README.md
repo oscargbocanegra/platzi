@@ -2,17 +2,20 @@ Tabla de Contenidos - Índice.
 ___
 - [Python.](#python)
   - [Curso de Python Intermedio: Comprehensions, Lambdas y Manejo de Errores](#curso-de-python-intermedio-comprehensions-lambdas-y-manejo-de-errores)
-    - [Material del curso aqui en este enlace (Notion) ](#material-del-curso-aqui-en-este-enlace-notion-)
-    - [Material del curso Ejemplos con Python](#material-del-curso-ejemplos-con-python)
-  - [Challenges con Python](#challenges-con-python)
+    - [- Material del curso aqui en este enlace (Notion) target="_blank" ](#--material-del-curso-aqui-en-este-enlace-notion-target_blank-)
+    - [- Material del curso Ejemplos con Python](#--material-del-curso-ejemplos-con-python)
+    - [- Challenges con Python](#--challenges-con-python)
+  - [Curso Profesional de Python.](#curso-profesional-de-python)
+    - [- Material del curso aqui en este enlace (Notion)](#--material-del-curso-aqui-en-este-enlace-notion)
+    - [- Material del curso Ejemplos con Python](#--material-del-curso-ejemplos-con-python-1)
+    - [- Challenges con Python](#--challenges-con-python-1)
 - [Creditos.](#creditos)
 - [Fuentes.](#fuentes)
 
 ____
 # Python.
 ## Curso de Python Intermedio: Comprehensions, Lambdas y Manejo de Errores
-___
-Temas
+<b>Temas</b>
 - El Zen de Python.
 - ¿Qué es la documentación?.
 - ¿Qué es un entorno virtual?.
@@ -33,11 +36,29 @@ Temas
 - Trabajando con archivos de texto en Python.
 - Reto final: Juego del Ahorcado o Hangman Game
 ____
-### [Material del curso aqui en este enlace (Notion) ](https://oscargbocanegra.notion.site/Python-Intermedio-Comprehensions-Lambdas-y-Manejo-de-Errores-74daecbe0cf44468a86a9722adcd76b6)
-### [Material del curso Ejemplos con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/curso_intermedio_python)
-## [Challenges con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/challenges)
+### - [Material del curso aqui en este enlace (Notion) target="_blank" ](https://oscargbocanegra.notion.site/Python-Intermedio-Comprehensions-Lambdas-y-Manejo-de-Errores-74daecbe0cf44468a86a9722adcd76b6)
+### - [Material del curso Ejemplos con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/curso_intermedio_python)
+### - [Challenges con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/challenges)
+____
+## Curso Profesional de Python.
+<b>Temas</b>
+- Como Funciona python?
+- Como organizar las carpetas de tus proyectos.
+- Static Typing
+- Que son los tipados.
+- Tipado estático en Python.
+- Practicando el tipado estático.
+- Scope: alcance de las variables.
+- Closures.
+- Programando closures.
 
-_____
+____
+### - [Material del curso aqui en este enlace (Notion)](https://oscargbocanegra.notion.site/Profesional-de-Python-c13ee2aa34564e439c0127ce3207c93e)
+### - [Material del curso Ejemplos con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/curso_profesional_python)
+### - [Challenges con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/challenges)
+
+
+____
  # Creditos.
    - Oscar G Bocanegra.<br>
    - https://www.linkedin.com/in/oscarbocanegra/

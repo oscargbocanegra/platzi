@@ -2,11 +2,11 @@ Tabla de Contenidos - Índice.
 ___
 - [Python.](#python)
   - [Curso de Python Intermedio: Comprehensions, Lambdas y Manejo de Errores](#curso-de-python-intermedio-comprehensions-lambdas-y-manejo-de-errores)
-    - [- Material del curso aqui en este enlace (Notion) target="_blank" ](#--material-del-curso-aqui-en-este-enlace-notion-target_blank-)
+    - [- Material del curso aqui en este enlace (Notion)](#--material-del-curso-aqui-en-este-enlace-notion)
     - [- Material del curso Ejemplos con Python](#--material-del-curso-ejemplos-con-python)
     - [- Challenges con Python](#--challenges-con-python)
   - [Curso Profesional de Python.](#curso-profesional-de-python)
-    - [- Material del curso aqui en este enlace (Notion)](#--material-del-curso-aqui-en-este-enlace-notion)
+    - [- Material del curso aqui en este enlace (Notion)](#--material-del-curso-aqui-en-este-enlace-notion-1)
     - [- Material del curso Ejemplos con Python](#--material-del-curso-ejemplos-con-python-1)
     - [- Challenges con Python](#--challenges-con-python-1)
 - [Creditos.](#creditos)
@@ -36,7 +36,7 @@ ____
 - Trabajando con archivos de texto en Python.
 - Reto final: Juego del Ahorcado o Hangman Game
 ____
-### - [Material del curso aqui en este enlace (Notion) target="_blank" ](https://oscargbocanegra.notion.site/Python-Intermedio-Comprehensions-Lambdas-y-Manejo-de-Errores-74daecbe0cf44468a86a9722adcd76b6)
+### - [Material del curso aqui en este enlace (Notion)](https://oscargbocanegra.notion.site/Python-Intermedio-Comprehensions-Lambdas-y-Manejo-de-Errores-74daecbe0cf44468a86a9722adcd76b6)
 ### - [Material del curso Ejemplos con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/curso_intermedio_python)
 ### - [Challenges con Python](https://github.com/oscargbocanegra/platzi/tree/main/python/challenges)
 ____

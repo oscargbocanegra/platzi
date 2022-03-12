@@ -51,6 +51,17 @@ ____
 - Scope: alcance de las variables.
 - Closures.
 - Programando closures.
+- Decoradores.
+- Programando Decoradores.
+- Iteradores.
+- La sucesión de Fibonacci.
+- Generadores.
+- Mejorando nuestra sucesión de Fibonacci.
+- Sets.
+- Operaciones con sets.
+- Eliminando los repetidos de una lista.
+- Manejo de fechas.
+- Time zones.
 
 ____
 ### - [Material del curso aqui en este enlace (Notion)](https://oscargbocanegra.notion.site/Profesional-de-Python-c13ee2aa34564e439c0127ce3207c93e)
